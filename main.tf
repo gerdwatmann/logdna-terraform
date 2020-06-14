@@ -33,8 +33,6 @@ resource ibm_resource_instance logdna {
     service-endpoints = "${var.end_points}"
   }
 
-  tags = "${var.tags}"
-  
 }
 
 ##############################################################################

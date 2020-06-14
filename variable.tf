@@ -29,11 +29,6 @@ variable unique_id {
   default     = "REPLACE---ADD_YOUR_INITIALS"
 }
 
-variable tags {
-  description = "List of tags for resources"
-  default     = ["REPLACE---ADD_YOUR_TAG_NAME"]
-}
-
 ##############################################################################
 
 
